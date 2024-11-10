@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grade</string>
+    <string name="input_text">Введите оценку от 1 до 5</string>
+    <string name="tittle_change_colour">Поменять цвет</string>
+    <string name="tittle_change_text_size">Поменять размер шрифта</string>
+    <string name="tittle_color_quality">Цветовое качество</string>
+    <string name="tittle_exit">Выход из приложения</string>
+    <string name="random_num">Случайное число</string>
+    <string name="random_num_textview">Поле для случайного числа</string>
+</resources>
